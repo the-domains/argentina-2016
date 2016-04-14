@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Argentina 2016]]></title>
         <description><![CDATA[Argentina 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/argentina-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 22:25:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 01:02:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/argentina-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9df8617-dcdb-4ee8-8bff-7640d81704a8.jpg">]]></description>
-            <link>undefinedbariloche-argentina/index.html</link>
+            <link>https://thegrid.ai/argentina-2016/bariloche-argentina/index.html</link>
             <guid isPermaLink="false">2ccf06f6-976a-4faa-b096-9bbaedb7f042</guid>
-            <pubDate>Wed, 13 Apr 2016 22:24:22 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 01:01:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
