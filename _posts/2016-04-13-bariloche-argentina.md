@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Bariloche, Argentina'
-datePublished: '2016-04-13T22:24:22.835Z'
-dateModified: '2016-04-13T22:23:04.486Z'
+datePublished: '2016-04-14T01:01:45.504Z'
+dateModified: '2016-04-13T22:24:32.568Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-bariloche-argentina.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-bariloche-argentina.md
-published: true
 url: bariloche-argentina/index.html
 _type: Article
 
